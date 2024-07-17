@@ -1,2 +1,2 @@
 # BlogApp
-Project using servlets and jsp
+This project is a web application for managing blog posts with user roles and authentication. It features user registration and login, allowing users to sign up as either Admins or Viewers. Admins can create, update, and delete blog posts, while viewers can browse and read them. The application is built using Java Servlets and JSP for the backend and frontend, with MySQL for the database. It includes secure password hashing, input validation, and session management to ensure a secure and user-friendly experience.
